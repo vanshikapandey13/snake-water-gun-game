@@ -1,4 +1,4 @@
- import streamlit as st
+import streamlit as st
 import random
 
 st.title("🐍💧🔫 Snake-Water-Gun Game")
